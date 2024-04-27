@@ -52,3 +52,4 @@ document.getElementById('getData').addEventListener('submit', (event) => {
       console.log(data)
 
 })
+
