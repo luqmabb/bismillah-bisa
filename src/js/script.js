@@ -10,7 +10,7 @@ window.onscroll = () => {
     }
 }
 
-//hambburger
+//hamburger
 const hamburger = document.getElementById('hamburger')
 
 hamburger.addEventListener('click', () => {
@@ -19,7 +19,7 @@ hamburger.addEventListener('click', () => {
 
 //navbar menu
 hamburger.addEventListener('click', () => {
-    document.getElementById('nav-menu').classList.toggle('hidden')
+    document.getElementById('nav-menu').classList.toggle('hidden-navbar')
 })
 
 //get in touch
