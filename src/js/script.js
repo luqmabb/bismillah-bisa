@@ -10,7 +10,7 @@ window.onscroll = () => {
     }
 }
 
-//hambburger
+//hamburger
 const hamburger = document.getElementById('hamburger')
 
 hamburger.addEventListener('click', () => {
